@@ -1,4 +1,4 @@
-Global Layoff Trends analysis (2020-2023)
+## Global Layoff Trends analysis (2020-2023)
 
 ## Project Overview
 This project analyzes global layoffs to understand whether workforce reductions are driven by individual company factors or broader economic and market-wide conditions. The analysis was performed on ~2,000+ global layoff records spanning multiple industries, countries, and funding stages.
@@ -40,13 +40,13 @@ This project analyzes global layoffs to understand whether workforce reductions 
 
 
 ## Recommendations (What companies can do)
--Companies should be careful with over-hiring and rapid expansion, as seen in cases like Meta, where pandemic-era hiring was later followed by large layoffs.
--Layoffs should be a last resort, with more attention given to controlling costs and cutting unnecessary spending first.
--Whenever possible, employees should be moved across teams instead of being let go, a practice followed by companies like IBM.
--Relying too heavily on a single market can be risky, as seen during the pandemic when dependence on China negatively impacted several businesses.
--Hiring decisions should be made by past data and trends, as companies like Microsoft do, to avoid repeating cycles of over-hiring.
--More flexible hiring models, such as contract-based roles used by companies like Uber, can help businesses adjust better during demand changes.
--Over-reliance on funding and aggressive expansion, as seen in cases like Ola and Byju’s, can make companies more vulnerable when market conditions shift.
+- Companies should be careful with over-hiring and rapid expansion, as seen in cases like Meta, where pandemic-era hiring was later followed by large layoffs.
+- Layoffs should be a last resort, with more attention given to controlling costs and cutting unnecessary spending first.
+- Whenever possible, employees should be moved across teams instead of being let go, a practice followed by companies like IBM.
+- Relying too heavily on a single market can be risky, as seen during the pandemic when dependence on China negatively impacted several businesses.
+- Hiring decisions should be made by past data and trends, as companies like Microsoft do, to avoid repeating cycles of over-hiring.
+- More flexible hiring models, such as contract-based roles used by companies like Uber, can help businesses adjust better during demand changes.
+- Over-reliance on funding and aggressive expansion, as seen in cases like Ola and Byju’s, can make companies more vulnerable when market conditions shift.
 
 
 
