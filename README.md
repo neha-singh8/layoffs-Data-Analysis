@@ -1,7 +1,7 @@
 ## Global Layoff Trends analysis (2020-2023)
 
 ## Project Overview
-This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2300 global layoff records spanning multiple industries, countries and funding stages.
+- This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2300 global layoff records spanning multiple industries, countries and funding stages.
 
 ## Dataset Source
 - Source: Github (Global Layoffs Dataset)
@@ -11,49 +11,39 @@ This project demonstrates the ability to analyze real-world datasets, identify b
 - Excel - Dashboard  creation and visual analysis
 
 ## Business questions
-- Does higher funding reduce the risk of company failures?
-- Are layoffs concentrated among a few large companies, or evenly distributed across firms?
-- Why are certain industries more vulnerable to layoffs than others?
-- Do layoffs differ significantly between developed and developing countries?
-- Are layoffs a one-time event or part of a recurring trend?
-- Which company stages are most prone to layoffs?
-- Are layoffs increasing over time or stabilizing?
-- How do layoffs accumulate over time on a monthly (rolling) basis?
-
-## Findings
-- Companies like Britishvolt and Quibi raised over $1B but still ended up laying off their entire workforce.
-- A small group of big tech companies such as Amazon, Google and Meta account for about 10.5% of total layoffs.
-- Demand-driven sectors like Consumers and Retail make up ~23% of total layoffs.
-- 7 out of the top 10 countries in total layoffs are developing countries, with USA and India at the top 2.
-- Layoffs have steadily increased over time, with sudden spikes like ~84K in January 2023 showing sharp market corrections.
-- Around ~204K layoffs occurred during the Post-IPO stage
-- Layoffs increased from ~81K in 2020 to ~160K in 2022, with ~125K already in just the first quarter of 2023.
+-	Does higher funding reduce the risk of company failures?
+-	Are layoffs concentrated among a few large companies, or evenly distributed across firms?
+-	Why are certain industries more vulnerable to layoffs than others?
+-	Do layoffs differ significantly between developed and developing countries?
+-	Are layoffs a one-time event or part of a recurring trend?
+-	Which company stages are most prone to layoffs?
+-	Are layoffs increasing over time or stabilizing?
+-	How do layoffs accumulate over time on a monthly (rolling) basis?
 
 ## Key Insights
-- Even with high funding, several companies still shut down completely, showing that access to capital alone doesn’t guarantee survival.
-- A large share of layoffs comes from a few big companies, which suggests internal restructuring or financial pressure more than a broad market issue.
-- Consumer and retail sectors tend to be more vulnerable since they’re highly competitive, demand-driven and operate on thin margins.
-- Developed countries see a higher impact from layoffs due to higher labour costs, automation, frequent restructuring and stronger exposure to global markets.
-- The overall pattern reflects a COVID-era hiring surge followed by corrections once market conditions normalized.
-- Post-IPO companies contribute significantly to layoffs as firms shift focus from rapid growth to profitability.
-- In general, layoffs increased over time and peaked during the market correction phase.
+-	High funding companies like Britishvolt and Quibi raised over $1B but still ended up laying off their entire workforce suggesting that access to capital alone doesn’t guarantee survival.
+-	Layoffs are highly concentrated among a few large firms, with companies like Amazon, Google and Meta contributing ~10.5% of total layoffs, indicating internal restructuring and strategic decisions rather than a broad market issue.
+-	Consumer and retail sectors account for ~23% of total layoffs indicating high sensitiveness to demand fluctuations, intense competitiveness and lower profit margins.
+-	In this dataset 7 out of 10 most affected countries are developed economies, with the US and India ranking highest, indicating higher labour costs, automation, frequent restructuring and stronger exposure to global markets.
+-	Post-IPO companies account for ~204K layoffs, suggesting shift in priorities from rapid growth to profitability after public listing.
+-	Layoff trends show a clear post-pandemic correction with growth from ~81K (2020) to ~160K (2022), reflecting normalization after the COVID-era hiring surge.
 
 ## Recommendations (What companies can do)
-- Companies should avoid over-hiring and rapid expansion, as seen in cases like Meta, where pandemic-era hiring was later followed by large layoffs.
-- Layoffs should be a last resort, with more attention given to controlling costs and cutting unnecessary spending first.
-- Whenever possible, employees should be moved across teams instead of being let go, a practice followed by companies like IBM.
-- Relying too heavily on a single market can be risky, as seen during the pandemic when dependence on China negatively impacted several businesses.
-- Hiring decisions should be made by past data and trends, as companies like Microsoft do, to avoid repeating cycles of over-hiring.
-- More flexible hiring models, such as contract-based roles used by companies like Uber, can help businesses adjust better during demand changes.
-- Over-reliance on funding and aggressive expansion, as seen in cases like Ola and Byju’s, can make companies more vulnerable when market conditions shift.
+-	Align hiring with actual business demand- Many tech firms cut 10-20% workforce after demand slowed down post-pandemic.
+-	Prioritize cost optimization early- BCG research shows that early cost control can reduce the need for layoffs by 30-50%
+-	Adopt flexible workforce models (freelancers, contractors)- McKinsey report suggests that flexible staffing can reduce costs by 20-40%
+-	Shift employees internally to other teams instead of layoffs- LinkedIn workforce data indicates that internal mobility can reduce talent replacement costs by 50-70%
+-	Track key metrics like revenue per employee and workforce utilization to identify inefficiencies early.
+-	Use automation for simple and repetitive tasks- AI tools can increase productivity by 20-60%
+-	Invest in employee upskilling and modern tools- WEF study shows that companies that invest in training see 20-25% productivity improvement per employee.
+-	Maintain strong cash reserves as they act as shock absorbers- Firms like Apple hold $50-100+ billion in cash and liquid assets.
+-	Hiring decisions should be made by past data and trends- Gartner reports that data-based planning improves forecasting accuracy by 15-30%
 
-## Project Purpose
-This project was built to demonstrate:
-- Analytical thinking  
-- Business problem-solving  
-- Data interpretation skills  
-- Ability to convert raw data into actionable insights  
----
+## Conclusion
+-	Thus it can be concluded that layoffs are not just driven by market conditions but also by internal decisions like over-hiring and poor planning and companies that plan more efficiently can reduce the need for sudden layoffs.
+
+
+
 
 ## Author
 **Neha Singh**
