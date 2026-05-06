@@ -1,10 +1,10 @@
 ## Global Layoff Trends analysis (2020-2023)
 
 ## Project Overview
-This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2,000+ global layoff records spanning multiple industries, countries, and funding stages.
+This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2300 global layoff records spanning multiple industries, countries and funding stages.
 
 ## Dataset Source
-- Source: Kaggle (Global Layoffs Dataset)
+- Source: Github (Global Layoffs Dataset)
 
 ## Tools used
 - SQL - Data cleaning, transformation and exploratory data analysis(EDA)
@@ -32,14 +32,14 @@ This project demonstrates the ability to analyze real-world datasets, identify b
 ## Key Insights
 - Even with high funding, several companies still shut down completely, showing that access to capital alone doesn’t guarantee survival.
 - A large share of layoffs comes from a few big companies, which suggests internal restructuring or financial pressure more than a broad market issue.
-- Consumer and retail sectors tend to be more vulnerable since they’re highly competitive, demand-driven, and operate on thin margins.
-- Developed countries see a higher impact from layoffs due to higher labour costs, automation, frequent restructuring, and stronger exposure to global markets.
+- Consumer and retail sectors tend to be more vulnerable since they’re highly competitive, demand-driven and operate on thin margins.
+- Developed countries see a higher impact from layoffs due to higher labour costs, automation, frequent restructuring and stronger exposure to global markets.
 - The overall pattern reflects a COVID-era hiring surge followed by corrections once market conditions normalized.
 - Post-IPO companies contribute significantly to layoffs as firms shift focus from rapid growth to profitability.
 - In general, layoffs increased over time and peaked during the market correction phase.
 
 ## Recommendations (What companies can do)
-- Companies should be careful with over-hiring and rapid expansion, as seen in cases like Meta, where pandemic-era hiring was later followed by large layoffs.
+- Companies should avoid over-hiring and rapid expansion, as seen in cases like Meta, where pandemic-era hiring was later followed by large layoffs.
 - Layoffs should be a last resort, with more attention given to controlling costs and cutting unnecessary spending first.
 - Whenever possible, employees should be moved across teams instead of being let go, a practice followed by companies like IBM.
 - Relying too heavily on a single market can be risky, as seen during the pandemic when dependence on China negatively impacted several businesses.
