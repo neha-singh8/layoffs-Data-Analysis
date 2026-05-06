@@ -3,10 +3,12 @@
 ## Project Overview
 This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2,000+ global layoff records spanning multiple industries, countries, and funding stages.
 
+## Dataset Source
+- Source: Kaggle (Global Layoffs Dataset)
+
 ## Tools used
 - SQL - Data cleaning, transformation and exploratory data analysis(EDA)
 - Excel - Dashboard  creation and visual analysis
-
 
 ## Business questions
 - Does higher funding reduce the risk of company failures?
@@ -18,7 +20,6 @@ This project demonstrates the ability to analyze real-world datasets, identify b
 - Are layoffs increasing over time or stabilizing?
 - How do layoffs accumulate over time on a monthly (rolling) basis?
 
-
 ## Findings
 - Companies like Britishvolt and Quibi raised over $1B but still ended up laying off their entire workforce.
 - A small group of big tech companies such as Amazon, Google and Meta account for about 10.5% of total layoffs.
@@ -27,7 +28,6 @@ This project demonstrates the ability to analyze real-world datasets, identify b
 - Layoffs have steadily increased over time, with sudden spikes like ~84K in January 2023 showing sharp market corrections.
 - Around ~204K layoffs occurred during the Post-IPO stage
 - Layoffs increased from ~81K in 2020 to ~160K in 2022, with ~125K already in just the first quarter of 2023.
-
 
 ## Key Insights
 - Even with high funding, several companies still shut down completely, showing that access to capital alone doesn’t guarantee survival.
@@ -38,7 +38,6 @@ This project demonstrates the ability to analyze real-world datasets, identify b
 - Post-IPO companies contribute significantly to layoffs as firms shift focus from rapid growth to profitability.
 - In general, layoffs increased over time and peaked during the market correction phase.
 
-
 ## Recommendations (What companies can do)
 - Companies should be careful with over-hiring and rapid expansion, as seen in cases like Meta, where pandemic-era hiring was later followed by large layoffs.
 - Layoffs should be a last resort, with more attention given to controlling costs and cutting unnecessary spending first.
@@ -48,15 +47,12 @@ This project demonstrates the ability to analyze real-world datasets, identify b
 - More flexible hiring models, such as contract-based roles used by companies like Uber, can help businesses adjust better during demand changes.
 - Over-reliance on funding and aggressive expansion, as seen in cases like Ola and Byju’s, can make companies more vulnerable when market conditions shift.
 
-
-
 ## Project Purpose
 This project was built to demonstrate:
 - Analytical thinking  
 - Business problem-solving  
 - Data interpretation skills  
 - Ability to convert raw data into actionable insights  
-
 ---
 
 ## Author
