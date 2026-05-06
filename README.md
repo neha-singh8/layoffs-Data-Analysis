@@ -1,10 +1,10 @@
 ## Global Layoff Trends analysis (2020-2023)
 
 ## Project Overview
-This project analyzes global layoffs to understand whether workforce reductions are driven by individual company factors or broader economic and market-wide conditions. The analysis was performed on ~2,000+ global layoff records spanning multiple industries, countries, and funding stages.
+This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2,000+ global layoff records spanning multiple industries, countries, and funding stages.
 
 ## Tools used
-- SQL - Data cleaning, transformations and exploratory daya analysis(EDA)
+- SQL - Data cleaning, transformation and exploratory data analysis(EDA)
 - Excel - Dashboard  creation and visual analysis
 
 
@@ -25,7 +25,7 @@ This project analyzes global layoffs to understand whether workforce reductions 
 - Demand-driven sectors like Consumers and Retail make up ~23% of total layoffs.
 - 7 out of the top 10 countries in total layoffs are developing countries, with USA and India at the top 2.
 - Layoffs have steadily increased over time, with sudden spikes like ~84K in January 2023 showing sharp market corrections.
-- Around ~204K layoffs occurred in the Post-IPO stage
+- Around ~204K layoffs occurred during the Post-IPO stage
 - Layoffs increased from ~81K in 2020 to ~160K in 2022, with ~125K already in just the first quarter of 2023.
 
 
