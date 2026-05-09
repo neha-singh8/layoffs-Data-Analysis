@@ -4,7 +4,7 @@
 - This project demonstrates the ability to analyze real-world datasets, identify business patterns and translate data into actionable insights using SQL and Excel. The analysis was performed on ~2300 global layoff records spanning multiple industries, countries and funding stages.
 
 ## Dataset Source
-- Source: Github (Global Layoffs Dataset)
+- Source: GitHub (Global Layoffs Dataset)
 
 ## Tools used
 - SQL - Data cleaning, transformation and exploratory data analysis(EDA)
@@ -47,4 +47,4 @@
 
 ## Author
 **Neha Singh**
-Mathematics Graduate | Aspiring Business/Data Analyst
+Aspiring Business/Data Analyst
